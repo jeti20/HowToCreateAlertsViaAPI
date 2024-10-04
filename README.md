@@ -146,7 +146,7 @@ JSON z komentarzami
 {
 	"title": "aaaaa", -> Nazwa alertu
 	"ruleGroup": "TestowyFolder", -> Folder
-	"folderUID": "edzsq8u89qjuoc", - folder uid.  -> nizej jest jak znaleźć
+	"folderUID": "edzsq8u89qjuoc", - folder uid.  -> nizej jest jak znaleźć. To jest nazwa folderu w kroku 3 tworzenia alertu + nazwa folderu w ktroym znajduja sie dashboardy
 	"noDataState": "OK", -> Configure no data and error handling
 	"execErrState": "OK", -> Configure no data and error handling
 	"for": "5m", -> Pending period
