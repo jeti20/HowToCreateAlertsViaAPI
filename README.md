@@ -145,8 +145,8 @@ JSON z komentarzami
 ```
 {
 	"title": "aaaaa", -> Nazwa alertu
-	"ruleGroup": "TestowyFolder", -> Folder
-	"folderUID": "edzsq8u89qjuoc", - folder uid.  -> nizej jest jak znaleźć. To jest nazwa folderu w kroku 3 tworzenia alertu + nazwa folderu w ktroym znajduja sie dashboardy
+	"ruleGroup": "Evaulation_group", -> Folder
+	"folderUID": "xxxxxxxxxxxxxxx", - folder uid.  -> nizej jest jak znaleźć. To jest nazwa folderu w kroku 3 tworzenia alertu + nazwa folderu w ktroym znajduja sie dashboardy
 	"noDataState": "OK", -> Configure no data and error handling
 	"execErrState": "OK", -> Configure no data and error handling
 	"for": "5m", -> Pending period
@@ -165,7 +165,7 @@ JSON z komentarzami
 				"from": 600,
 				"to": 0
 			},
-			"datasourceUid": "adzsq547id05ce", -> nizej jest jak znaleźć
+			"datasourceUid": "xxxxxxxxxxxxxxx", -> nizej jest jak znaleźć
 			"model": {
 				"intervalMs": 1000,
 				"maxDataPoints": 43200,
